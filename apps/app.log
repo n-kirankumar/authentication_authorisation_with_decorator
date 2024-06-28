@@ -1,0 +1,15 @@
+2024-06-29 01:16:06,726 - INFO - User admin authenticated successfully
+2024-06-29 01:16:06,727 - INFO - User new_user added successfully
+2024-06-29 01:16:06,728 - INFO - Mobile verification is successful
+2024-06-29 01:16:06,728 - INFO - Email verification is successful
+2024-06-29 01:16:06,728 - INFO - Gender verification is successful
+2024-06-29 01:16:06,728 - INFO - Blood group verification is successful
+2024-06-29 01:16:06,728 - INFO - DOB verification is successful
+2024-06-29 01:16:06,729 - INFO - Record created successfully
+2024-06-29 01:16:06,729 - INFO - Reading all records
+2024-06-29 01:16:06,729 - INFO - Records: [{'mobile': 919876543210, 'email': 'valid_email@gmail.com', 'gender': 'Male', 'blood_group': 'O+', 'dob': '1990-01-01'}]
+2024-06-29 01:16:06,729 - INFO - Record with mobile 919876543210 updated successfully
+2024-06-29 01:16:06,729 - INFO - Record with mobile 919876543210 deleted successfully
+2024-06-29 01:16:06,729 - INFO - User user authenticated successfully
+2024-06-29 01:16:06,729 - ERROR - Unauthorized access attempt by user
+2024-06-29 01:16:06,729 - INFO - Reading all records
